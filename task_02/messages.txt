@@ -1,0 +1,5 @@
+15.03.2026 18:45:10Bob: Evening message
+01.01.2025 09:00:00Alice: Happy New Year
+29.02.2024 12:30:05Carol: Leap day
+01.01.2025 08:59:59Dave: One second earlier
+01.01.2025 09:00:00Eve: Same time, second record

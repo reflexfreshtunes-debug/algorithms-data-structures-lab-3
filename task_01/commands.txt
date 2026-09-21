@@ -1,0 +1,18 @@
+upsert 8 80
+upsert 3 30
+upsert 10 100
+upsert 1 10
+upsert 6 60
+upsert 14 140
+upsert 4 40
+upsert 7 70
+upsert 13 130
+find 6
+upsert 6 600
+find 6
+TraversePref
+TraverseInf
+TraversePost
+remove 3
+TraverseInf
+
